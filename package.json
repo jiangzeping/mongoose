@@ -1,0 +1,16 @@
+{
+  "name": "trdownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "",
+    "mongoose":"",
+    "express":"",
+    "body-parser":"",
+    "async":"",
+    "express-session":"",
+    "cookie-parser":"",
+    "formidable":""
+  }
+}
